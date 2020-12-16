@@ -3,6 +3,8 @@
 
 ASEBCLASS is a Python script that is written for the classification for light curve morphologies of the ASAS-SN eclipsing binary star systems from their light curve images. Mainly, the ASAS-SN project database [1,2] was used, however, the code can be modified for classifying the light curve morphologies of binary stars from any other database having enough number of light curve images.
 
+The arXiv paper is here: https://arxiv.org/abs/2012.08435
+
 The image data used in the code can be found here: https://drive.google.com/drive/folders/13upqcE5ODYr0VjBrbqe92-HUeXTZRbTz?usp=sharing
 
 
